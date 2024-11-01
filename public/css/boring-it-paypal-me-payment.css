@@ -1,0 +1,45 @@
+.paypal_me_container{
+    display:block;
+    width:100%;
+    height:auto;
+    position:relative;
+} 
+.paypal_me_button{
+    position: relative;
+    margin: 2% auto;
+    background:#333;
+    border: 1px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 1px 0 0 #444;
+    color: white;
+    display: block;
+    padding: 10px 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: none;
+    width: 50%;
+}
+#paypal_button{
+    color: white;
+    text-decoration: none;
+}
+.bit_paypal_me_button_backend{
+    float: none;
+    padding: 10px;
+    background:#333;
+    border: 1px solid #555;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    margin: 5% 10px 5% 10px;
+}
+#bit_paypal_donate_admin_button{
+    color: white;
+    text-decoration: none;
+}
+.bit_admin_desc{
+    width: 100%;
+    padding: 10px 20% 10px 20%;
+}
